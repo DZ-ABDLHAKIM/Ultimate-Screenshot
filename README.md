@@ -1,6 +1,6 @@
 # 📸 Ultimate Web Screenshot & Video Capture Tool 🎥
 
-[![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue?logo=apify)](https://apify.com)
+[![Apify Actor](https://raw.githubusercontent.com/DZ-ABDLHAKIM/Ultimate-Screenshot/refs/heads/main/Ultimate%20Screenshot.png)](https://apify.com/dz_omar/ultimate-screenshot)
 
 Transform any webpage into high-quality screenshots, PDFs, or engaging videos/GIFs with our powerful web capture tool. Perfect for web monitoring, content creation, documentation, and automated testing.
 
